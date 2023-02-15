@@ -1,0 +1,1 @@
+Esse é o primeiro texto que estou criando para conhecer o Git
